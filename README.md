@@ -12,7 +12,8 @@ Second-year Software Engineering student focused on building robust enterprise a
 
 ### Technical Stack
 
-* **Languages:** Java, C, TypeScript, Python.
+* **Languages:** Java, C, TypeScript, JavaScript, Python.
+* **Databases & Tools:** SQL, Git.
 * **Web:** HTML5, CSS3.
 
 ---

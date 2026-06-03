@@ -2,7 +2,7 @@
 
 Software Engineering Student | Fırat University
 
-Second-year Software Engineering student focused on building robust enterprise applications and practical software solutions. Currently improving my skills through TypeScript-based application development, relational database design, and modern web technologies.
+Second-year Software Engineering student focused on improving in general software development, problem-solving, and modern development practices. Currently exploring AI tools, AI agents, and practical software workflows while building projects that strengthen my engineering fundamentals.
 
 ---
 
@@ -17,8 +17,9 @@ Second-year Software Engineering student focused on building robust enterprise a
 * **Languages:** Java, C, TypeScript, JavaScript, Python.
 * **Frontend:** React, Next.js, HTML5, CSS3.
 * **Databases & Tools:** SQL, SQLite, Git, Maven.
+* **Currently Learning:** AI tools, AI agents, software development workflows.
 * **Core Concepts:** Object-Oriented Programming, Relational Database Design, Software Architecture, Data Structures and Algorithms, Software Testing.
 
 ---
 
-Committed to engineering discipline and continuous technical growth.
+Committed to continuous learning and building practical software projects.
